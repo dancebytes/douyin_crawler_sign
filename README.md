@@ -1,5 +1,6 @@
 
-# douyin_crawler_sign
+# douyin sign algorithm
+# tiktok sign algorithm
 2023-06-13：
 
 提供抖音Ios/Android最新版签名服务，设置注册、爬虫签名、解密支持
