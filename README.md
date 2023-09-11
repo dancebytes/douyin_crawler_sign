@@ -10,8 +10,6 @@
 - x-ladon
 - x-medusa
 - x-helios
-- x-cylons
-- device register
 
 可以提供签名反解 （签名信息还原，从而验证签名的有效性），真实有效
 
