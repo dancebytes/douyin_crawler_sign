@@ -3,7 +3,7 @@
 # tiktok sign algorithm
 2023-06-13：
 
-提供抖音/tiktok Ios/Android最新版签名服务，设置注册、爬虫签名、解密支持
+提供抖音 Ios/Android 最新版签名服务，设置注册、爬虫签名、解密支持
 
 - x-gorgon
 - x-argus
