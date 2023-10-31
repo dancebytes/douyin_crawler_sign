@@ -1,7 +1,7 @@
 
 # douyin sign algorithm
 # tiktok sign algorithm
-2023-06-13：
+2023-10-31：
 
 提供抖音 Ios/Android 最新版签名服务，设置注册、爬虫签名、解密支持
 
