@@ -1,6 +1,6 @@
 
 # douyin sign algorithm
-2024-07-15：
+2024-12-01：
 
 提供抖音 iOS/Android 最新版签名服务，设置注册、爬虫签名、解密支持
 
